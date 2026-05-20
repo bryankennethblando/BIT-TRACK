@@ -1,2 +1,2 @@
 # BIT-TRACK
-A simple dashbord that tracks the prices of bitcoins in the marker
+Simple Bit tracking prices in the market | Python, Stremlit
