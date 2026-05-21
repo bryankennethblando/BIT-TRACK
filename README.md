@@ -1,2 +1,2 @@
 # BIT-TRACK
-Simple Bit tracking prices in the market | Python, Stremlit
+Simple Bit tracking prices in the market | Python, Streamlit
